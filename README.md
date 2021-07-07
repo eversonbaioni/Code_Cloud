@@ -1,2 +1,3 @@
 # Code_Cloud
- My first repository for Git and GitHub 
+Repository for Git and GitHub 
+keep code updated
